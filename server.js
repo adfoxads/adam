@@ -33,8 +33,19 @@ app.post('/login', async (req, res) => {
     res.json({ message: 'Login successful' });
 });
 
+const path = require('path');
+
+// Add this route at the top of your server.js routes
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'login.html'));
+});
+
+
+
+
 // Start server
 const PORT = 3000;
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
 });
+
