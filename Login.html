@@ -21,6 +21,8 @@ async function login() {
     const username = document.getElementById('username').value;
     const password = document.getElementById('password').value;
     const message = document.getElementById('message');
+    consol.log(username);
+    consol.log(password);
 
     if (!username || !password) {
         message.textContent = "Please fill in all fields.";
@@ -57,5 +59,6 @@ async function login() {
 
 </body>
 </html>
+
 
 
