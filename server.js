@@ -7,7 +7,7 @@ const path = require('path');
 const app = express();
 app.use(bodyParser.json());
 app.use(cors());
-app.use(express.static(path.join(__dirname)));
+
 
 
 // ✅ Example: user credentials stored in memory
@@ -51,4 +51,5 @@ const PORT = 3000;
 app.listen(PORT, () => {
     console.log(`🚀 Server running at http://localhost:${PORT}`);
 });
+
 
