@@ -1,0 +1,790 @@
+[
+  {
+  "country": "Hungary",
+  "image": "flags/hungary.png",
+  "universities": [
+    {
+      "name": "International Business School (IBS)",
+      "programmes": {
+        "bachelor": [
+          "BSc Corporate Finance",
+          "BSc Business Management (AI & Data Analytics, Arts, Diplomacy & International Relations, HRM & Business Psychology, Marketing, Tourism)",
+          "BSc Business Administration and Management",
+          "BSc International Business Economics",
+          "BA Marketing – Digital Media",
+          "BA Psychology"
+        ],
+        "master": [
+          "MSc International Management",
+          "MSc Financial Management",
+          "MSc Human Resource Management",
+          "MSc Marketing Management",
+          "MSc Strategic International Management",
+          "MSc IT for Business Data Analytics",
+          "MBA Strategic Data-Driven Management"
+        ],
+        "phd": [
+          "PhD in Business and Management"
+        ]
+      }
+    },
+    {
+      "name": "Hungarian University of Sports Science (HUSS)",
+      "programmes": {
+        "bachelor": [
+          "Sport & Exercise Science",
+          "Sports Coaching",
+          "Sports Management"
+        ],
+        "master": [
+          "International Sports Diplomacy",
+          "Sports Coaching"
+        ],
+        "phd": [
+          "PhD in Sports Sciences"
+        ],
+        "short_courses": [
+          "International Coaching Course (ICC)",
+          "International Training Center – Coaching Programmes"
+        ]
+      }
+    },
+    {
+      "name": "University of Debrecen",
+      "faculties": [
+        "Agriculture & Food Sciences and Environmental Management",
+        "Humanities",
+        "Dentistry",
+        "Economics & Business",
+        "Medicine",
+        "Informatics",
+        "Law",
+        "Music",
+        "Pharmacy",
+        "Science & Technology",
+        "Public Health",
+        "Engineering",
+        "Child & Special Needs Education"
+      ]
+    },
+    {
+      "name": "University of Pécs",
+      "programmes": {
+        "bachelor": [
+          "Engineering and IT (9 Bachelor’s Programmes)"
+        ],
+        "master": [
+          "Engineering and IT (8 Master’s Programmes)",
+          "Biomedical Engineering (English)"
+        ],
+        "doctoral": [
+          "DLA in Civil Engineering",
+          "PhD in Architecture"
+        ]
+      }
+    },
+    {
+      "name": "Budapest Metropolitan University",
+      "programmes": {
+        "bachelor": [
+          "Animation",
+          "Business Administration & Management",
+          "Commerce & Marketing",
+          "Communication & Media Science",
+          "Craftsmanship",
+          "Film & Media Studies",
+          "Graphic Design",
+          "International Business Economics",
+          "International Relations",
+          "Finance & Accounting",
+          "Media Design",
+          "Photography",
+          "Television Production Arts",
+          "Tourism & Catering"
+        ],
+        "master": [
+          "Communication & Media Studies",
+          "Management & Leadership",
+          "Tourism Management"
+        ]
+      }
+    },
+    {
+      "name": "Eötvös Loránd University (ELTE)",
+      "programmes": {
+        "bachelor": "38 Bachelor’s Programmes (sciences, humanities, law, education, etc.)",
+        "master": "96 Master’s Programmes across multiple disciplines",
+        "doctoral": "118 PhD Programmes",
+        "international": "50+ English and foreign language degree programmes"
+      }
+    },
+    {
+      "name": "University of Miskolc",
+      "programmes": {
+        "bachelor": [
+          "Business Administration & Management",
+          "Computer Science Engineering",
+          "English and American Studies",
+          "Logistics Engineering",
+          "Materials Engineering",
+          "Mechanical Engineering",
+          "Nursing & Patient Care",
+          "Performance (Music)"
+        ],
+        "master": [
+          "MBA",
+          "MA Central European Studies",
+          "MSc Computer Science Engineering",
+          "MA Cultural Anthropology",
+          "MSc Earth Sciences Engineering",
+          "MA European and International Business Law",
+          "MSc Environmental Engineering",
+          "MA International Relations",
+          "MSc Hydrogeological Engineering",
+          "MSc Logistics Engineering",
+          "MSc Materials Engineering",
+          "MSc Mechanical Engineering",
+          "MSc Metallurgical Engineering",
+          "MSc Petroleum Engineering",
+          "MSc Petroleum Geoengineering",
+          "MSc Space Engineering"
+        ],
+        "doctoral": [
+          "PhD in Law",
+          "PhD in Business and Management",
+          "PhD in Earth Sciences",
+          "PhD in Information Science and Technology",
+          "PhD in Mechanical Engineering",
+          "PhD in Materials Science"
+        ]
+      }
+    }
+  ]
+}
+,
+  {
+  "country": "Latvia",
+   "image": "flags/latvia.png",
+  "universities": [
+    {
+      "name": "University of Latvia",
+      "notes": "Broad study programmes at bachelor’s and master’s levels across faculties (specific listings not found in search results)."
+    },
+    {
+      "name": "Transport and Telecommunication Institute (TSI)",
+      "programmes": {
+        "bachelor": [
+          "Economics",
+          "Management Science",
+          "Electronics",
+          "Telecommunication Systems and Computer Networks",
+          "Computer Science",
+          "Engineering Science (Commercial Transport Operation)",
+          "Aviation Transport",
+          "Higher professional study programmes: Electronics; Transport and Business Logistics; Transport Management; Technical Maintenance of Aviation Transport"
+        ],
+        "master": [
+          "Master of Social Sciences in Economics",
+          "Master of Social Sciences in Management Science",
+          "Master of Engineering Sciences in Electronics",
+          "Master of Natural Sciences in Computer Science",
+          "Master of Engineering Science in Management of Information Systems",
+          "Master of Transport and Logistics"
+        ]
+      }
+    },
+    {
+      "name": "Riga Technical University (RTU)",
+      "programmes": {
+        "bachelor": [
+          "Civil Engineering",
+          "Engineering Technology, Mechanics and Mechanical Engineering",
+          "Aviation Transport",
+          "Medical Engineering and Medical Physics",
+          "Railway Engineering",
+          "Chemistry and Chemical Technology",
+          "Environmental Engineering",
+          "Materials Engineering",
+          "Computer Systems",
+          "Telecommunication Technologies and Data Transmission Engineering",
+          "Adaptronics",
+          "Finance Management Information Systems",
+          "Smart Electronic Systems",
+          "Technical Translation",
+          "Telematics and Transport Electronics Systems",
+          "Entrepreneurship and Management",
+          "Maritime Transport – Marine Electrical Automation",
+          "Maritime Transport – Marine Engineering",
+          "Maritime Transport – Navigation",
+          "Computer Science and Organizational Technologies",
+          "International Business Management"
+        ],
+        "master": [
+          "Aviation Transport",
+          "Engineering Technology, Mechanics and Mechanical Engineering",
+          "Production Engineering",
+          "Civil Engineering",
+          "Medical Engineering and Medical Physics",
+          "Railway Engineering",
+          "Chemistry and Chemical Technology",
+          "Environmental Engineering",
+          "Material Science and Nanotechnologies",
+          "Business Informatics",
+          "Computer Systems",
+          "Cybersecurity Engineering",
+          "Digital Humanities",
+          "Financial Engineering Mathematics",
+          "Logistics and Supply Chain Management",
+          "Telecommunication Technologies and Networks Management",
+          "Adaptronics",
+          "Computerised Control of Electrical Technologies",
+          "Smart Electronic Systems",
+          "Smart Power Systems",
+          "Technical Translation",
+          "Telematics and Transport Electronics Systems",
+          "Business Finance",
+          "Entrepreneurship and Management",
+          "Industrial Engineering and Management",
+          "Civil Construction and Real Estate Management",
+          "Innovations and Entrepreneurship",
+          "Logistics and Supply Chain Security",
+          "Architecture",
+          "Design Engineering",
+          "Master of Business Administration (Riga Business School)",
+          "Maritime Transport (Master)"
+        ]
+      }
+    },
+    {
+      "name": "Riga Stradins University",
+      "notes": "Known primarily for medical and health-related programmes; detailed listings not found in search results."
+    },
+    {
+      "name": "ISMA University of Applied Sciences",
+      "programmes": {
+        "short-cycle": [
+          "Real Estate Entrepreneurship",
+          "Entrepreneurship in Restaurant Business",
+          "Applied Information Technology"
+        ],
+        "professional Bachelor": [
+          "Business Administration",
+          "Music Management",
+          "Business Communication",
+          "Business Administration in Tourism",
+          "Tourism and Hospitality Management",
+          "Restaurant and Club Business Management",
+          "Digital Technologies in Tourism",
+          "Information Systems",
+          "Telecommunication Systems",
+          "Computer Systems Administration and Safety",
+          "Intellectual Education Systems",
+          "Applied Systems of Computer Modelling",
+          "Applied Electronics Computing Systems",
+          "Web Technologies",
+          "Computer Design and Media Technologies"
+        ],
+        "master": [
+          "Business Administration",
+          "Information Technology Management",
+          "Computer Systems",
+          "Quantitative Enterprise Risk Management",
+          "Enterprise Risk Management",
+          "Administration and Safety of Computer Systems",
+          "Telecommunication Systems",
+          "Intellectual Teaching Systems",
+          "Applied Systems of Computer Modelling",
+          "Information Systems of Web Technologies",
+          "Calculation and Information Systems of Applied Electronics"
+        ],
+        "doctoral": [
+          "Doctorate in Business Administration (Dr. oec.)"
+        ]
+      }
+    },
+    {
+      "name": "Turība University",
+      "notes": "Offers professionally accredited tourism-related programmes (WTO TedQual accreditation) and is internationally connected (AACSB, UNeECC); specific degree titles not listed in search results."
+    },
+    {
+      "name": "Baltic International Academy",
+      "notes": "Largest private higher education provider in Latvia teaching primarily in Russian; specific programme listings not found."
+    },
+    {
+      "name": "Latvia University of Life Sciences and Technologies",
+      "programmes": {
+        "faculties": {
+          "Economics and Social Development": [
+            "Economics",
+            "Business Studies",
+            "Entrepreneurship and Business Management",
+            "Business Management",
+            "Financial Management"
+          ],
+          "Engineering and Information Technologies": [
+            "Agricultural Engineering",
+            "Machine Design and Manufacturing",
+            "Applied Energetics",
+            "Computer Control and Computer Science",
+            "Programming",
+            "Information Technologies"
+          ],
+          "Agriculture and Food Technology": [
+            "Food Science",
+            "Nutrition Science",
+            "Catering and Hotel Management",
+            "Food Technology"
+          ],
+          "Forest and Environmental Sciences": [
+            "Forestry Science",
+            "Wood Materials and Technology",
+            "Wood Processing Technology",
+            "Sustainable Forestry",
+            "Forest Engineering",
+            "Civil Engineering and Constructions",
+            "Land Surveying and Management",
+            "Environmental Science",
+            "Landscape Architecture and Planning",
+            "Water Management",
+            "Environment and Water Management",
+            "Environmental Engineering"
+          ],
+          "Veterinary Medicine": [
+            "Veterinary Medicine (integrated Bachelor+Masters)"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Novikontas Maritime College",
+      "notes": "No programme information found in search results."
+    }    
+  ]
+}
+,
+  {
+  "country": "Lithuania",
+  "image": "flags/lithuania.png",
+  "universities": [
+    {
+      "name": "Vilnius University",
+      "programmes": {
+        "bachelor": "Over 140 Bachelor’s degree programmes in diverse fields",
+        "master": "Over 140 Master’s degree programmes",
+        "phd": "PhD studies in 29 scientific fields",
+        "medicine": "60+ medicine and dentistry residency programmes",
+        "international": "70+ study programmes in English (e.g., medicine, law, business)"
+      }
+    },
+    {
+      "name": "Lithuanian University of Health Sciences",
+      "programmes": {
+        "fields": [
+          "Medicine",
+          "Dentistry",
+          "Pharmacy",
+          "Nursing",
+          "Rehabilitation",
+          "Public Health",
+          "Veterinary Medicine",
+          "Animal Sciences",
+          "Food and Feed Production & Safety"
+        ],
+        "international": "20 programmes in English"
+      }
+    },
+    {
+      "name": "ISM University of Management and Economics",
+      "programmes": {
+        "bachelor": [
+          "Business Management and Analytics",
+          "Economics",
+          "Economics and Politics",
+          "Finance",
+          "International Business and Communication",
+          "Entrepreneurship and Innovation"
+        ],
+        "master": [
+          "International Marketing and Management",
+          "Financial Economics",
+          "Innovation and Technology Management",
+          "Global Leadership and Strategy",
+          "Business Sustainability Management"
+        ],
+        "executive": [
+          "Business Process Management",
+          "Financial Strategy and Management",
+          "International Business",
+          "Human Resource Management",
+          "Leadership: Power Actualisation",
+          "Managerial Accounting Analysis",
+          "Managerial Economics",
+          "Marketing Strategy and Management",
+          "Project Management",
+          "Strategic Management"
+        ]
+      }
+    },
+    {
+      "name": "Klaipėda University",
+      "programmes": {
+        "bachelor": [
+          "Business Management",
+          "English & Another Foreign Language with Business Communication",
+          "Health Care Management",
+          "Innovative Electrical & Automation Systems",
+          "Innovative Processes Engineering",
+          "Physical Activity and Sport Pedagogy",
+          "Production Engineering",
+          "Regional Governance",
+          "Shipping and Port Engineering",
+          "Marine Transport Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering",
+          "Informatics",
+          "Physical Geography & Oceanography",
+          "Social Work & Crisis Intervention",
+          "Economics",
+          "Management",
+          "Recreation & Tourism",
+          "History of Europe",
+          "English Philology",
+          "Physiotherapy",
+          "Leisure Sports"
+        ],
+        "master": [
+          "Business Management",
+          "Health Care Management",
+          "Joint Master in Marine Biotechnology"
+        ],
+        "phd": "Doctoral studies available"
+      }
+    },
+    {
+      "name": "Lithuanian Sports University",
+      "programmes": {
+        "bachelor": [
+          "European Bachelor in Physical Activity and Lifestyle",
+          "Sports Coaching",
+          "Physiotherapy"
+        ],
+        "master": [
+          "Physiotherapy",
+          "International Master in Performance Analysis of Sport",
+          "Tourism and Sports Management",
+          "MSc in International Basketball Coaching and Management",
+          "Physical Activity and Public Health"
+        ],
+        "phd": [
+          "Biomedical Sciences: Biology",
+          "Social Sciences: Education"
+        ],
+        "totals": {
+          "undergraduate": 8,
+          "master": 10,
+          "doctoral": 2
+        }
+      }
+    },
+    {
+      "name": "Vilnius Gediminas Technical University (VILNIUS TECH)",
+      "programmes": {
+        "bachelor_english": [
+          "Applied Artificial Intelligence",
+          "Artificial Intelligence Systems",
+          "Architecture (integrated 5-year)",
+          "Automotive Engineering",
+          "Aviation Mechanics Engineering",
+          "Bioengineering",
+          "Building Energy Systems Engineering",
+          "Business Management",
+          "Civil Engineering",
+          "Computer Engineering",
+          "Creative Industries",
+          "Environmental Technology",
+          "Entertainment Producing",
+          "Financial Engineering",
+          "Information & Communication Technologies",
+          "Information Technologies",
+          "Mathematics of Modern Technologies",
+          "Mechanical Engineering",
+          "Mechatronics and Robotics",
+          "Medical Engineering",
+          "Multimedia Design",
+          "Marine-related professional bachelor programmes through Lithuanian Maritime Academy"
+        ],
+        "master_english": [
+          "Environmental Engineering",
+          "Architecture",
+          "Electronics",
+          "Fundamental Sciences",
+          "Creative Industries",
+          "Mechanics",
+          "Civil Engineering",
+          "Transport Engineering",
+          "Business Management"
+        ],
+        "faculties": [
+          "Antanas Gustaitis’ Aviation Institute",
+          "Architecture",
+          "Business Management",
+          "Civil Engineering",
+          "Creative Industries",
+          "Electronics",
+          "Environmental Engineering",
+          "Fundamental Sciences",
+          "Mechanics",
+          "Transport Engineering"
+        ]
+      }
+    },
+    {
+      "name": "Kaunas University of Technology",
+      "programmes": {
+        "totals": {
+          "bachelor": 48,
+          "master": 54,
+          "doctoral": 19,
+          "non-degree": 1
+        },
+        "in_english": {
+          "bachelor_count": 56,
+          "fields": [
+            "Chemical Technology and Engineering",
+            "Food Science and Technology",
+            "Business Digitization Management",
+            "Electronic and Electrical Engineering",
+            "Intelligent Robotics Systems",
+            "Renewable Energy Engineering",
+            "Artificial Intelligence",
+            "Informatics",
+            "Materials Physics and Nanotechnologies",
+            "Aviation Engineering",
+            "Mechanical Engineering",
+            "Mechatronics",
+            "Vehicle Engineering",
+            "Communication Studies and Information Management Technologies",
+            "New Media Language",
+            "Public Governance and Civil Society",
+            "Architecture",
+            "Civil Engineering"
+          ],
+          "master_fields": [
+            "Applied Chemistry",
+            "Chemical Engineering",
+            "Environmental Engineering",
+            "Food Science and Safety",
+            "Industrial Biotechnology",
+            "Accounting and Auditing",
+            "International Business",
+            "Biomedical Engineering",
+            "Control Technologies",
+            "Electronics Engineering",
+            "Energy Technologies and Economics",
+            "Artificial Intelligence in Computer Science",
+            "Materials Physics",
+            "Medical Physics",
+            "Aeronautical Engineering",
+            "Industrial Engineering and Management",
+            "Mechanical Engineering",
+            "Sustainable Management and Production",
+            "Vehicle Engineering",
+            "Public Policy and Security",
+            "Translation and Localization of Technical Texts",
+            "Architecture",
+            "Structural and Building Products Engineering"
+          ]
+        }
+      }
+    }
+  ]
+}
+,
+  {
+  "country": "Spain",
+  "image": "flags/spain.png",
+  "universities": [
+    {
+      "name": "University of Barcelona",
+      "programmes": {
+        "bachelor": "76 undergraduate degrees across Arts & Humanities, Sciences, Health Sciences, Social Sciences & Law, Engineering & Architecture",
+        "dual_degrees": "13 dual-degree pathways (e.g., Business & Chemistry, Audiovisual Communication & Journalism)"
+      }
+    },
+    {
+      "name": "University of Madrid",
+      "notes": "Program specifics not found; numerous public universities such as Complutense and Carlos III offer diverse programmes."
+    },
+    {
+      "name": "University of Valencia",
+      "programmes": {
+        "undergraduate": "Degrees across Arts & Humanities, Engineering, Health Sciences, Sciences, Social & Legal Sciences, including several dual and international degrees"
+      }
+    },
+    {
+      "name": "University of Granada (UGR)",
+      "programmes": {
+        "undergraduate": "Extensive offerings in Arts & Humanities, Sciences, Health Sciences, Social Sciences, Law, Engineering, plus many double and international degrees",
+        "master": "100+ master's degrees—including Erasmus Mundus, bilingual, blended, online, and international double degrees",
+        "new_degrees_2025": [
+          "Data Science & Artificial Intelligence",
+          "Physical Activity & Sport Sciences",
+          "Spanish Industries & Cultures",
+          "Biomedical Engineering",
+          "Master in Sustainable Development",
+          "Master in Active Lifestyle Research"
+        ]
+      }
+    },
+    {
+      "name": "University of Murcia",
+      "notes": "Program details not located in available search results."
+    },
+    {
+      "name": "UCAM Universidad Católica San Antonio de Murcia",
+      "notes": "Programme details not found in search results."
+    },
+    {
+      "name": "University of Girona",
+      "notes": "Programme specifics not found in search results."
+    },
+    {
+      "name": "Ramon Llull University",
+      "programmes": {
+        "constituent_schools": [
+          "ESADE Business School",
+          "IQS School of Engineering",
+          "IQS School of Management",
+          "La Salle Engineering & Architecture",
+          "Blanquerna Schools (Psychology, Education, Sport Sciences, Health Sciences, Communication & International Relations)",
+          "ESDi Higher School of Design",
+          "ESADE Law School",
+          "Others (Bioethics Institute, Observing Institute, Social Education)"
+        ]
+      }
+    },
+    {
+      "name": "EU Business School",
+      "programmes": {
+        "bachelor": [
+          "BBA",
+          "Executive BBA",
+          "Bachelor programmes in Communication & PR, Tourism Management, International Relations, Sports Management, Digital Business, Design & Innovation, Finance, Blockchain"
+        ],
+        "master": ["MBA", "Other Master’s"],
+        "doctorate": ["DBA"]
+      }
+    },
+    {
+      "name": "IE Business School",
+      "programmes": {
+        "bachelor": ["BBA", "dual degrees"],
+        "master": ["Master’s in Management", "MBA", "Executive MBA", "Specialized master programmes"],
+        "doctorate": ["PhD", "DBA"],
+        "executive": ["Certificates & Executive Education", "Summer programs"]
+      }
+    },
+    {
+      "name": "C3S Business School",
+      "notes": "No programme information found in search results."
+    },
+    {
+      "name": "EUHT St. Pol",
+      "notes": "Known for Hotel Management programmes, but specific details not found."
+    }
+  ]
+}
+,
+  {
+    "country": "Malta",
+    "image": "flags/malta.png",
+    "universities": [
+      { "name": "University of Malta" },
+      { "name": "Malta College of Arts, Science and Technology (MCAST)" },
+      { "name": "American University of Malta" },
+      { "name": "Global College Malta" },
+      { "name": "London School of Commerce" },
+      { "name": "GBSB Global Business School" },
+      { "name": "Knights College Malta" },
+      { "name": "Malta Business School" },
+      { "name": "Malita International College" }
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "image": "flags/czech.png",
+    "universities": [
+      { "name": "Czech Technical University in Prague" },
+      { "name": "Czech University of Life Sciences Prague" },
+      { "name": "Brno University of Technology" },
+      { "name": "Technical University of Liberec" },
+      { "name": "University of Ostrava" },
+      { "name": "VSB – Technical University of Ostrava" },
+      { "name": "Academy of Arts, Architecture and Design in Prague" },
+      { "name": "ŠKODA AUTO University" }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "image": "flags/netherlands.png",
+    "universities": [
+      { "name": "TU Delft - Delft University of Technology" },
+      { "name": "Erasmus University Rotterdam" },
+      { "name": "Leiden University" },
+      { "name": "University of Groningen" },
+      { "name": "Utrecht University" },
+      { "name": "University of Amsterdam" },
+      { "name": "University of Twente" },
+      { "name": "Radboud University" },
+      { "name": "Eindhoven University of Technology" },
+      { "name": "Tilburg University" },
+      { "name": "Breda University of Applied Sciences" },
+      { "name": "HAN University of Applied Sciences" },
+      { "name": "Hanze University of Applied Sciences" },
+      { "name": "Amsterdam University of Applied Sciences" },
+      { "name": "Fontys University of Applied Sciences" },
+      { "name": "Wageningen University & Research" }
+    ]
+  },
+  {
+    "country": "Finland",
+    "image": "flags/finland.png",
+    "universities": [
+      { "name": "Aalto University" },
+      { "name": "University of Helsinki" },
+      { "name": "University of Turku" },
+      { "name": "University of Jyväskylä" },
+      { "name": "University of Oulu" },
+      { "name": "Hanken School of Economics" },
+      { "name": "University of Eastern Finland" },
+      { "name": "Arcada University of Applied Sciences" },
+      { "name": "Metropolia University of Applied Sciences" },
+      { "name": "Tampere University" },
+      { "name": "Lapland University of Applied Sciences" },
+      { "name": "Humak University of Applied Sciences" },
+      { "name": "University of Vaasa" },
+      { "name": "Haaga-Helia University of Applied Sciences" },
+      { "name": "JAMK University of Applied Sciences" },
+      { "name": "Kajaani University of Applied Sciences" },
+      { "name": "Karelia University of Applied Sciences" },
+      { "name": "LUT University" },
+      { "name": "Satakunta University of Applied Sciences" },
+      { "name": "HAMK Häme University of Applied Sciences" }
+    ]
+  },
+  {
+  "country": "Slovania",
+  "image": "flags/slovania.png",
+  "universities": [
+    { "name": "Pavol Jozef Šafárik University" },
+    { "name": "Technical University of Kosice" },
+    { "name": "Slovak Medical University" },
+    { "name": "University of Žilina" },
+    { "name": "Comenius University in Bratislava" },
+    { "name": "Slovak University of Technology in Bratislava" },
+    { "name": "University of Prešov" },
+    { "name": "University of Trnava" }
+  ]
+}
+
+]
