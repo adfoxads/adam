@@ -7,6 +7,8 @@ const path = require('path');
 const app = express();
 app.use(bodyParser.json());
 app.use(cors());
+app.use(express.static(path.join(__dirname)));
+
 
 // ✅ Example: user credentials stored in memory
 // Regenerated bcrypt hash for password "12345"
@@ -49,3 +51,4 @@ const PORT = 3000;
 app.listen(PORT, () => {
     console.log(`🚀 Server running at http://localhost:${PORT}`);
 });
+
