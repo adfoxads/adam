@@ -21,7 +21,7 @@ let users = [
 
 // ✅ Serve login.html when user visits root
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'login.html')); // filename should match exactly
+    res.sendFile(path.join(__dirname, 'Login.html')); // filename should match exactly
 });
 
 // ✅ Login API route
@@ -51,5 +51,6 @@ const PORT = 3000;
 app.listen(PORT, () => {
     console.log(`🚀 Server running at http://localhost:${PORT}`);
 });
+
 
 
